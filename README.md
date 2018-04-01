@@ -1,1 +1,1 @@
-# Machine-Learning-From-Scatch
+# Machine Learning A-Z
